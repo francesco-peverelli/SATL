@@ -1,0 +1,51 @@
+src/main/resources/datasets/*
+target
+./*/target
+./*/test_run_dir
+test_run_dir
+project
+
+#Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.class
+*.cache
+*.jar
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# VSCode exensions
+.metals
+.vscode
+.bloop
+.bsp
+
+# VCD files
+*.vcd
